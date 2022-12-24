@@ -35,7 +35,7 @@ Music from Paul Kalkbrenner - Live at Tomorrowland 2022 (https://www.youtube.com
 
 ## Flashing the firmware <a href="https://github.com/hanhdt/esp32-flash-tool">ESP32 Flash Tool</a>
 
-Download <a href="https://github.com/ciberp/esp32-light-controller/light_v1_esp32.bin">light_v1_esp32.bin</a> and flash :)
+Download <a href="https://github.com/ciberp/esp32-light-controller/raw/master/light_v1_esp32.bin">light_v1_esp32.bin</a> and flash :)
 
 
 After flashing esp will turn on soft AP with ssid *light* and psk *password*. Default creds for settings are user *admin* and pass *password*.
