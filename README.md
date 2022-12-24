@@ -29,7 +29,7 @@ The outputs or lights can flash to the beat of the music or they can be programm
 
 ## Working example (video)
 
-https://user-images.githubusercontent.com/23559198/209428461-698de3f4-1ae0-4e91-82d1-27190635f53e.mp4
+https://user-images.githubusercontent.com/23559198/209428833-85beb53c-6d40-4eb7-9e6a-54f33a109d4d.mp4
 
 Music from Paul Kalkbrenner - Live at Tomorrowland 2022 (https://www.youtube.com/watch?v=fa2N9OBK8v4)
 
