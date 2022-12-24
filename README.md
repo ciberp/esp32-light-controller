@@ -29,10 +29,14 @@ The outputs or lights can flash to the beat of the music or they can be programm
 
 ## Working example (video)
 
+https://user-images.githubusercontent.com/23559198/209428461-698de3f4-1ae0-4e91-82d1-27190635f53e.mp4
+
+Music from Paul Kalkbrenner - Live at Tomorrowland 2022 (https://www.youtube.com/watch?v=fa2N9OBK8v4)
 
 ## Flashing the firmware <a href="https://github.com/hanhdt/esp32-flash-tool">ESP32 Flash Tool</a>
 
-Download <a href="https://github.com/ciberp/light_v1_esp32.bin">light_v1_esp32.bin</a> and flash :)
+Download <a href="https://github.com/ciberp/esp32-light-controller/light_v1_esp32.bin">light_v1_esp32.bin</a> and flash :)
+
 
 After flashing esp will turn on soft AP with ssid *light* and psk *password*. Default creds for settings are user *admin* and pass *password*.
 
