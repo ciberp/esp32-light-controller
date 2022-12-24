@@ -30,7 +30,7 @@ The outputs or lights can flash to the beat of the music or they can be programm
 ## Working example (video)
 
 
-## Flashing the firmware using python tool <a href="https://github.com/hanhdt/esp32-flash-tool">ESP32 Flash Tool</a>
+## Flashing the firmware <a href="https://github.com/hanhdt/esp32-flash-tool">ESP32 Flash Tool</a>
 
 Download <a href="https://github.com/ciberp/light_v1_esp32.bin">light_v1_esp32.bin</a> and flash :)
 
